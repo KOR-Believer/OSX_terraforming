@@ -14,3 +14,6 @@
 ![image](https://user-images.githubusercontent.com/8975134/41580033-4e47f4fc-73d4-11e8-8932-03fb92cab666.png) 
 - Magnet
 ![image](https://user-images.githubusercontent.com/8975134/41580233-1617c796-73d5-11e8-8a64-96063cb523b2.png)
+
+##
+- ~/.config/karabiner/assets/complex_modifications/kt68_to_fc660c.json
